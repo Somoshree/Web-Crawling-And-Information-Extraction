@@ -27,3 +27,7 @@ ASSUMPTIONS AND FLOW OF PROGRAM:
 
 8. FINALLY THE CORRESPONDING VALUE FOR THE FIELD NAME IS DISPLAYED ONTO THE CONSOLE. ALSO, A FILE NAMED AS 'result_log.txt' GETS FORMED IN THE SAME FOLDER AS THE CODE FILES WHERE ALL THE LOGS OF THE QUERIES ARE STORED.
 
+![Project Flow](https://github.com/Somoshree/Web-Crawling-And-Information-Extraction/blob/4537be2a9572bdd2d660de90209b8b8a63afa1af/1.png)
+![Project Flow](https://github.com/Somoshree/Web-Crawling-And-Information-Extraction/blob/4537be2a9572bdd2d660de90209b8b8a63afa1af/2.png)
+![Project Flow](https://github.com/Somoshree/Web-Crawling-And-Information-Extraction/blob/4537be2a9572bdd2d660de90209b8b8a63afa1af/3.png)
+![Project Flow](https://github.com/Somoshree/Web-Crawling-And-Information-Extraction/blob/4537be2a9572bdd2d660de90209b8b8a63afa1af/4.png)
